@@ -1,4 +1,4 @@
-process.env.NODE_ENV = "development";
+
 
 import "dotenv/config";
 import express from "express";
